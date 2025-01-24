@@ -19,3 +19,11 @@ The below overrides the above because class and id are more specific
     font-weight: bold;
     font-size: x-large;
 }
+
+a {
+    color: aqua;
+}
+
+a:visited {
+    color: red;
+}
