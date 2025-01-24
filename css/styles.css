@@ -1,3 +1,4 @@
+/* Tag Select */
 div {
     color: blue;
     font-family: Algerian;
@@ -6,10 +7,14 @@ div {
 The below overrides the above because class and id are more specific
 (only if something is specified)
 */
+
+/* Class Select */
 .class {
     color: green;
     background-color: black;
 }
+
+/* ID Select */
 #id {
     font-weight: bold;
     font-size: x-large;
