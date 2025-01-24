@@ -1,0 +1,16 @@
+div {
+    color: blue;
+    font-family: Algerian;
+}
+/*
+The below overrides the above because class and id are more specific
+(only if something is specified)
+*/
+.class {
+    color: green;
+    background-color: black;
+}
+#id {
+    font-weight: bold;
+    font-size: x-large;
+}
